@@ -1,9 +1,59 @@
 {
-  "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=1&limit=10&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
-  "items": [
+  "tracks": [
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7lviWqvc7xuOVQf9MEvp1p"
+        },
+        "href": "https://api.spotify.com/v1/albums/7lviWqvc7xuOVQf9MEvp1p",
+        "id": "7lviWqvc7xuOVQf9MEvp1p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27377c9b60c93230623c8ec6897",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0277c9b60c93230623c8ec6897",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485177c9b60c93230623c8ec6897",
+            "width": 64
+          }
+        ],
+        "name": "ANTIHYPETRAIN",
+        "release_date": "2021-07-09",
+        "release_date_precision": "day",
+        "total_tracks": 101,
+        "type": "album",
+        "uri": "spotify:album:7lviWqvc7xuOVQf9MEvp1p"
+      },
       "artists": [
         {
           "external_urls": {
@@ -14,40 +64,92 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/5KUcdgfCOVtWLDPdZHmvdY"
+      "disc_number": 1,
+      "duration_ms": 211714,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FRX282105271"
       },
-      "href": "https://api.spotify.com/v1/albums/5KUcdgfCOVtWLDPdZHmvdY",
-      "id": "5KUcdgfCOVtWLDPdZHmvdY",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27305ba2117f2aab31619e2bf8c",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0205ba2117f2aab31619e2bf8c",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485105ba2117f2aab31619e2bf8c",
-          "width": 64
-        }
-      ],
-      "name": "Lust Hero, Vol. 2",
-      "release_date": "2020-04-03",
-      "release_date_precision": "day",
-      "total_tracks": 6,
-      "type": "album",
-      "uri": "spotify:album:5KUcdgfCOVtWLDPdZHmvdY"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QCv0VDeT0ztpMKayg8SF3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5QCv0VDeT0ztpMKayg8SF3",
+      "id": "5QCv0VDeT0ztpMKayg8SF3",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Двуглавый орёл",
+      "popularity": 31,
+      "preview_url": "https://p.scdn.co/mp3-preview/b8fd55d31eb620f0ab0431adb854288c0f6c07fb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5QCv0VDeT0ztpMKayg8SF3"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7lviWqvc7xuOVQf9MEvp1p"
+        },
+        "href": "https://api.spotify.com/v1/albums/7lviWqvc7xuOVQf9MEvp1p",
+        "id": "7lviWqvc7xuOVQf9MEvp1p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27377c9b60c93230623c8ec6897",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0277c9b60c93230623c8ec6897",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485177c9b60c93230623c8ec6897",
+            "width": 64
+          }
+        ],
+        "name": "ANTIHYPETRAIN",
+        "release_date": "2021-07-09",
+        "release_date_precision": "day",
+        "total_tracks": 101,
+        "type": "album",
+        "uri": "spotify:album:7lviWqvc7xuOVQf9MEvp1p"
+      },
       "artists": [
         {
           "external_urls": {
@@ -58,40 +160,92 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/4fJ8oGRLlqodwtbykYGeQy"
+      "disc_number": 1,
+      "duration_ms": 295500,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FRX282105287"
       },
-      "href": "https://api.spotify.com/v1/albums/4fJ8oGRLlqodwtbykYGeQy",
-      "id": "4fJ8oGRLlqodwtbykYGeQy",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273243dc4bea4a59c9d30304064",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02243dc4bea4a59c9d30304064",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851243dc4bea4a59c9d30304064",
-          "width": 64
-        }
-      ],
-      "name": "Хардкор",
-      "release_date": "2018-07-27",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:4fJ8oGRLlqodwtbykYGeQy"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4h1OLaUHOrtbxKxqdOgiCd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4h1OLaUHOrtbxKxqdOgiCd",
+      "id": "4h1OLaUHOrtbxKxqdOgiCd",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Дискотека Овсянкин",
+      "popularity": 30,
+      "preview_url": "https://p.scdn.co/mp3-preview/93332f95c3f52caa2a19c59d4e4f7add32ee838b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4h1OLaUHOrtbxKxqdOgiCd"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7lviWqvc7xuOVQf9MEvp1p"
+        },
+        "href": "https://api.spotify.com/v1/albums/7lviWqvc7xuOVQf9MEvp1p",
+        "id": "7lviWqvc7xuOVQf9MEvp1p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27377c9b60c93230623c8ec6897",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0277c9b60c93230623c8ec6897",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485177c9b60c93230623c8ec6897",
+            "width": 64
+          }
+        ],
+        "name": "ANTIHYPETRAIN",
+        "release_date": "2021-07-09",
+        "release_date_precision": "day",
+        "total_tracks": 101,
+        "type": "album",
+        "uri": "spotify:album:7lviWqvc7xuOVQf9MEvp1p"
+      },
       "artists": [
         {
           "external_urls": {
@@ -102,40 +256,92 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/3Oqo7MAVZANehlvLxv7nck"
+      "disc_number": 1,
+      "duration_ms": 195000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FRX282105274"
       },
-      "href": "https://api.spotify.com/v1/albums/3Oqo7MAVZANehlvLxv7nck",
-      "id": "3Oqo7MAVZANehlvLxv7nck",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273505d9ddcbceb1ce27bd19bd6",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02505d9ddcbceb1ce27bd19bd6",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851505d9ddcbceb1ce27bd19bd6",
-          "width": 64
-        }
-      ],
-      "name": "PARIS",
-      "release_date": "2018-07-19",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:3Oqo7MAVZANehlvLxv7nck"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5bHGAro4chnp5hHptecVSm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5bHGAro4chnp5hHptecVSm",
+      "id": "5bHGAro4chnp5hHptecVSm",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Пати",
+      "popularity": 27,
+      "preview_url": "https://p.scdn.co/mp3-preview/583e2854c69b14f409472cb0f9dcbaf0ee74265c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5bHGAro4chnp5hHptecVSm"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6W8qCDryxaAEyIMILdUN0U"
+        },
+        "href": "https://api.spotify.com/v1/albums/6W8qCDryxaAEyIMILdUN0U",
+        "id": "6W8qCDryxaAEyIMILdUN0U",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739166662a5bdf1c90a3f93656",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029166662a5bdf1c90a3f93656",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519166662a5bdf1c90a3f93656",
+            "width": 64
+          }
+        ],
+        "name": "HYPE TRAIN (Mixtape)",
+        "release_date": "2016-09-22",
+        "release_date_precision": "day",
+        "total_tracks": 29,
+        "type": "album",
+        "uri": "spotify:album:6W8qCDryxaAEyIMILdUN0U"
+      },
       "artists": [
         {
           "external_urls": {
@@ -146,40 +352,102 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7yvesnglw6wQlfRFWU4bNt"
+          },
+          "href": "https://api.spotify.com/v1/artists/7yvesnglw6wQlfRFWU4bNt",
+          "id": "7yvesnglw6wQlfRFWU4bNt",
+          "name": "Маки",
+          "type": "artist",
+          "uri": "spotify:artist:7yvesnglw6wQlfRFWU4bNt"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/6RitIsf2Nu66WRn96rGPVp"
+      "disc_number": 1,
+      "duration_ms": 245584,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FR96X1601635"
       },
-      "href": "https://api.spotify.com/v1/albums/6RitIsf2Nu66WRn96rGPVp",
-      "id": "6RitIsf2Nu66WRn96rGPVp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27320e0407fb94a38a47e324bea",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0220e0407fb94a38a47e324bea",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485120e0407fb94a38a47e324bea",
-          "width": 64
-        }
-      ],
-      "name": "Мажитель",
-      "release_date": "2018-07-13",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:6RitIsf2Nu66WRn96rGPVp"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5dU657eKBE7aJU73NSD5Kc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5dU657eKBE7aJU73NSD5Kc",
+      "id": "5dU657eKBE7aJU73NSD5Kc",
+      "is_local": false,
+      "is_playable": true,
+      "name": "FUCKTRAP",
+      "popularity": 26,
+      "preview_url": "https://p.scdn.co/mp3-preview/74d85fc5c0d92ea5a7bbae2903e9c53f07f390f2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5dU657eKBE7aJU73NSD5Kc"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7lviWqvc7xuOVQf9MEvp1p"
+        },
+        "href": "https://api.spotify.com/v1/albums/7lviWqvc7xuOVQf9MEvp1p",
+        "id": "7lviWqvc7xuOVQf9MEvp1p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27377c9b60c93230623c8ec6897",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0277c9b60c93230623c8ec6897",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485177c9b60c93230623c8ec6897",
+            "width": 64
+          }
+        ],
+        "name": "ANTIHYPETRAIN",
+        "release_date": "2021-07-09",
+        "release_date_precision": "day",
+        "total_tracks": 101,
+        "type": "album",
+        "uri": "spotify:album:7lviWqvc7xuOVQf9MEvp1p"
+      },
       "artists": [
         {
           "external_urls": {
@@ -190,40 +458,92 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/1MHc0hLhnIbvJdMtek6xKF"
+      "disc_number": 1,
+      "duration_ms": 299571,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FRX282105296"
       },
-      "href": "https://api.spotify.com/v1/albums/1MHc0hLhnIbvJdMtek6xKF",
-      "id": "1MHc0hLhnIbvJdMtek6xKF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732bead5cee51b61159a1ab7d8",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022bead5cee51b61159a1ab7d8",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512bead5cee51b61159a1ab7d8",
-          "width": 64
-        }
-      ],
-      "name": "Имя",
-      "release_date": "2017-11-15",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:1MHc0hLhnIbvJdMtek6xKF"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Xpx3sZq5csIWxFAsbpZfo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Xpx3sZq5csIWxFAsbpZfo",
+      "id": "2Xpx3sZq5csIWxFAsbpZfo",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Подкрадули",
+      "popularity": 25,
+      "preview_url": "https://p.scdn.co/mp3-preview/791daf1a21c4d055a465eee919cf15392d5e4ffe?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 27,
+      "type": "track",
+      "uri": "spotify:track:2Xpx3sZq5csIWxFAsbpZfo"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7lviWqvc7xuOVQf9MEvp1p"
+        },
+        "href": "https://api.spotify.com/v1/albums/7lviWqvc7xuOVQf9MEvp1p",
+        "id": "7lviWqvc7xuOVQf9MEvp1p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27377c9b60c93230623c8ec6897",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0277c9b60c93230623c8ec6897",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485177c9b60c93230623c8ec6897",
+            "width": 64
+          }
+        ],
+        "name": "ANTIHYPETRAIN",
+        "release_date": "2021-07-09",
+        "release_date_precision": "day",
+        "total_tracks": 101,
+        "type": "album",
+        "uri": "spotify:album:7lviWqvc7xuOVQf9MEvp1p"
+      },
       "artists": [
         {
           "external_urls": {
@@ -234,40 +554,92 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/3sdc7rOQ46CIwUtc6clBwi"
+      "disc_number": 1,
+      "duration_ms": 176785,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FRX282105293"
       },
-      "href": "https://api.spotify.com/v1/albums/3sdc7rOQ46CIwUtc6clBwi",
-      "id": "3sdc7rOQ46CIwUtc6clBwi",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273de893ce4700e8fbd7e374820",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02de893ce4700e8fbd7e374820",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851de893ce4700e8fbd7e374820",
-          "width": 64
-        }
-      ],
-      "name": "Россия",
-      "release_date": "2017-03-13",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:3sdc7rOQ46CIwUtc6clBwi"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2djigoyOOVLC1W3cqdVBkb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2djigoyOOVLC1W3cqdVBkb",
+      "id": "2djigoyOOVLC1W3cqdVBkb",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Убили гендер",
+      "popularity": 23,
+      "preview_url": "https://p.scdn.co/mp3-preview/e8bb7da4171360cd14a26a514ea1ca20606dadef?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:2djigoyOOVLC1W3cqdVBkb"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7lviWqvc7xuOVQf9MEvp1p"
+        },
+        "href": "https://api.spotify.com/v1/albums/7lviWqvc7xuOVQf9MEvp1p",
+        "id": "7lviWqvc7xuOVQf9MEvp1p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27377c9b60c93230623c8ec6897",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0277c9b60c93230623c8ec6897",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485177c9b60c93230623c8ec6897",
+            "width": 64
+          }
+        ],
+        "name": "ANTIHYPETRAIN",
+        "release_date": "2021-07-09",
+        "release_date_precision": "day",
+        "total_tracks": 101,
+        "type": "album",
+        "uri": "spotify:album:7lviWqvc7xuOVQf9MEvp1p"
+      },
       "artists": [
         {
           "external_urls": {
@@ -278,40 +650,82 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/6JnqxlYjgIx2uupeCjksA2"
+      "disc_number": 1,
+      "duration_ms": 181285,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FRX282105279"
       },
-      "href": "https://api.spotify.com/v1/albums/6JnqxlYjgIx2uupeCjksA2",
-      "id": "6JnqxlYjgIx2uupeCjksA2",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273f3c2c7ee157c954ace817d25",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02f3c2c7ee157c954ace817d25",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851f3c2c7ee157c954ace817d25",
-          "width": 64
-        }
-      ],
-      "name": "Моя Диана",
-      "release_date": "2017-03-09",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:6JnqxlYjgIx2uupeCjksA2"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1e8zCxJstoy8nVHmpD9VqM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1e8zCxJstoy8nVHmpD9VqM",
+      "id": "1e8zCxJstoy8nVHmpD9VqM",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Grime Vietnam",
+      "popularity": 23,
+      "preview_url": "https://p.scdn.co/mp3-preview/77d345c8522eb60fa42f0e35655a49b61bbd964a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1e8zCxJstoy8nVHmpD9VqM"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2wB5z68Vpe3j4dNyzr9xOM"
+        },
+        "href": "https://api.spotify.com/v1/albums/2wB5z68Vpe3j4dNyzr9xOM",
+        "id": "2wB5z68Vpe3j4dNyzr9xOM",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4e2e39fed817937931d478e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4e2e39fed817937931d478e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4e2e39fed817937931d478e",
+            "width": 64
+          }
+        ],
+        "name": "Андрей",
+        "release_date": "2020-11-20",
+        "release_date_precision": "day",
+        "total_tracks": 20,
+        "type": "album",
+        "uri": "spotify:album:2wB5z68Vpe3j4dNyzr9xOM"
+      },
       "artists": [
         {
           "external_urls": {
@@ -324,38 +738,80 @@
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/4zL1zimqZpYgw4ay2fOHez"
+      "disc_number": 1,
+      "duration_ms": 156214,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "RUA582104386"
       },
-      "href": "https://api.spotify.com/v1/albums/4zL1zimqZpYgw4ay2fOHez",
-      "id": "4zL1zimqZpYgw4ay2fOHez",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2730567d9571813fc0bbc4b5aa4",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e020567d9571813fc0bbc4b5aa4",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048510567d9571813fc0bbc4b5aa4",
-          "width": 64
-        }
-      ],
-      "name": "Молодой папа (Хованский diss)",
-      "release_date": "2017-02-20",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:4zL1zimqZpYgw4ay2fOHez"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YgYOcZ8K6mnU4l4BjvOaq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0YgYOcZ8K6mnU4l4BjvOaq",
+      "id": "0YgYOcZ8K6mnU4l4BjvOaq",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Замай",
+      "popularity": 22,
+      "preview_url": "https://p.scdn.co/mp3-preview/6fda06b425fd36a376a546776873fcc12d6447e6?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0YgYOcZ8K6mnU4l4BjvOaq"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7lviWqvc7xuOVQf9MEvp1p"
+        },
+        "href": "https://api.spotify.com/v1/albums/7lviWqvc7xuOVQf9MEvp1p",
+        "id": "7lviWqvc7xuOVQf9MEvp1p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27377c9b60c93230623c8ec6897",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0277c9b60c93230623c8ec6897",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485177c9b60c93230623c8ec6897",
+            "width": 64
+          }
+        ],
+        "name": "ANTIHYPETRAIN",
+        "release_date": "2021-07-09",
+        "release_date_precision": "day",
+        "total_tracks": 101,
+        "type": "album",
+        "uri": "spotify:album:7lviWqvc7xuOVQf9MEvp1p"
+      },
       "artists": [
         {
           "external_urls": {
@@ -366,40 +822,92 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/5ez3BUKqezvzoG2JMhKW26"
+      "disc_number": 1,
+      "duration_ms": 193500,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FRX282105272"
       },
-      "href": "https://api.spotify.com/v1/albums/5ez3BUKqezvzoG2JMhKW26",
-      "id": "5ez3BUKqezvzoG2JMhKW26",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27381637c7b43ae611063af310f",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0281637c7b43ae611063af310f",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485181637c7b43ae611063af310f",
-          "width": 64
-        }
-      ],
-      "name": "NHY",
-      "release_date": "2016-11-25",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:5ez3BUKqezvzoG2JMhKW26"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5G2JbMUqAe9nOFitkM78rj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5G2JbMUqAe9nOFitkM78rj",
+      "id": "5G2JbMUqAe9nOFitkM78rj",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Стрип",
+      "popularity": 21,
+      "preview_url": "https://p.scdn.co/mp3-preview/f0b7f6bbd2cfaef2d10fba38e8dc8967c377bee7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5G2JbMUqAe9nOFitkM78rj"
     },
     {
-      "album_group": "single",
-      "album_type": "single",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+            },
+            "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+            "id": "49UiD9IBopGUJrJy7kBpIm",
+            "name": "Zamay",
+            "type": "artist",
+            "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+            "id": "7fMhppMTr3ElTOEJqSbkEq",
+            "name": "Slava KPSS",
+            "type": "artist",
+            "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6W8qCDryxaAEyIMILdUN0U"
+        },
+        "href": "https://api.spotify.com/v1/albums/6W8qCDryxaAEyIMILdUN0U",
+        "id": "6W8qCDryxaAEyIMILdUN0U",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739166662a5bdf1c90a3f93656",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029166662a5bdf1c90a3f93656",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519166662a5bdf1c90a3f93656",
+            "width": 64
+          }
+        ],
+        "name": "HYPE TRAIN (Mixtape)",
+        "release_date": "2016-09-22",
+        "release_date_precision": "day",
+        "total_tracks": 29,
+        "type": "album",
+        "uri": "spotify:album:6W8qCDryxaAEyIMILdUN0U"
+      },
       "artists": [
         {
           "external_urls": {
@@ -410,41 +918,87 @@
           "name": "Zamay",
           "type": "artist",
           "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
+          "id": "7fMhppMTr3ElTOEJqSbkEq",
+          "name": "Slava KPSS",
+          "type": "artist",
+          "uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD"
+          },
+          "href": "https://api.spotify.com/v1/artists/4h8pGxEIOi7j4me1yhYxlD",
+          "id": "4h8pGxEIOi7j4me1yhYxlD",
+          "name": "LSP",
+          "type": "artist",
+          "uri": "spotify:artist:4h8pGxEIOi7j4me1yhYxlD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sZUTAnSnOuYnNcUaQmFjq"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sZUTAnSnOuYnNcUaQmFjq",
+          "id": "5sZUTAnSnOuYnNcUaQmFjq",
+          "name": "Young P&H",
+          "type": "artist",
+          "uri": "spotify:artist:5sZUTAnSnOuYnNcUaQmFjq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AXDXD5zXzg1Y3UO1peVPq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AXDXD5zXzg1Y3UO1peVPq",
+          "id": "3AXDXD5zXzg1Y3UO1peVPq",
+          "name": "Эхопрокуренныхподъездов",
+          "type": "artist",
+          "uri": "spotify:artist:3AXDXD5zXzg1Y3UO1peVPq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1rYqiPt3b8PZ48swLVk2Pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/1rYqiPt3b8PZ48swLVk2Pw",
+          "id": "1rYqiPt3b8PZ48swLVk2Pw",
+          "name": "Заебатсу",
+          "type": "artist",
+          "uri": "spotify:artist:1rYqiPt3b8PZ48swLVk2Pw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv"
+          },
+          "href": "https://api.spotify.com/v1/artists/40K9KbqFFDzGXfUW3s60bv",
+          "id": "40K9KbqFFDzGXfUW3s60bv",
+          "name": "BOOKER",
+          "type": "artist",
+          "uri": "spotify:artist:40K9KbqFFDzGXfUW3s60bv"
         }
       ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/35DzdgDZtZwacoL7zGWWYT"
+      "disc_number": 1,
+      "duration_ms": 658799,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FR96X1601636"
       },
-      "href": "https://api.spotify.com/v1/albums/35DzdgDZtZwacoL7zGWWYT",
-      "id": "35DzdgDZtZwacoL7zGWWYT",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2730437104ab01cd899e1893feb",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e020437104ab01cd899e1893feb",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048510437104ab01cd899e1893feb",
-          "width": 64
-        }
-      ],
-      "name": "Новый",
-      "release_date": "2016-11-09",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:35DzdgDZtZwacoL7zGWWYT"
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0IyDsCtwgZFgvDxCc12V33"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0IyDsCtwgZFgvDxCc12V33",
+      "id": "0IyDsCtwgZFgvDxCc12V33",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Вейп-вейп-вейп",
+      "popularity": 21,
+      "preview_url": "https://p.scdn.co/mp3-preview/7f87f5be83d77f88cc4abdce75cdce73dc1280c5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0IyDsCtwgZFgvDxCc12V33"
     }
-  ],
-  "limit": 10,
-  "next": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=11&limit=10&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
-  "offset": 1,
-  "previous": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=0&limit=10&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
-  "total": 45
+  ]
 }
