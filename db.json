@@ -1,460 +1,230 @@
 {
-	"href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=5&limit=10&include_groups=appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
-	"items": [
-		{
-			"album_group": "appears_on",
-			"album_type": "album",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
-					},
-					"href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
-					"id": "7fMhppMTr3ElTOEJqSbkEq",
-					"name": "Slava KPSS",
-					"type": "artist",
-					"uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/5YXsyMz7hTfpcO6fZf1JGo"
-			},
-			"href": "https://api.spotify.com/v1/albums/5YXsyMz7hTfpcO6fZf1JGo",
-			"id": "5YXsyMz7hTfpcO6fZf1JGo",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b2735bcd761713efe287832f052c",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e025bcd761713efe287832f052c",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d000048515bcd761713efe287832f052c",
-					"width": 64
-				}
-			],
-			"name": "Bootleg, Vol. 2",
-			"release_date": "2020-11-26",
-			"release_date_precision": "day",
-			"total_tracks": 21,
-			"type": "album",
-			"uri": "spotify:album:5YXsyMz7hTfpcO6fZf1JGo"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "album",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/77Q33g6Rb5TR0cOECdJSOf"
-					},
-					"href": "https://api.spotify.com/v1/artists/77Q33g6Rb5TR0cOECdJSOf",
-					"id": "77Q33g6Rb5TR0cOECdJSOf",
-					"name": "ST1M",
-					"type": "artist",
-					"uri": "spotify:artist:77Q33g6Rb5TR0cOECdJSOf"
-				},
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/6EfddKVS6YVN4xotXWeczL"
-					},
-					"href": "https://api.spotify.com/v1/artists/6EfddKVS6YVN4xotXWeczL",
-					"id": "6EfddKVS6YVN4xotXWeczL",
-					"name": "SD",
-					"type": "artist",
-					"uri": "spotify:artist:6EfddKVS6YVN4xotXWeczL"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/0MzK53h2YvxGE5gtFduM63"
-			},
-			"href": "https://api.spotify.com/v1/albums/0MzK53h2YvxGE5gtFduM63",
-			"id": "0MzK53h2YvxGE5gtFduM63",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b273d528dd3a3a8300dbffad3459",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e02d528dd3a3a8300dbffad3459",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d00004851d528dd3a3a8300dbffad3459",
-					"width": 64
-				}
-			],
-			"name": "Аггро 2.0",
-			"release_date": "2020-11-04",
-			"release_date_precision": "day",
-			"total_tracks": 22,
-			"type": "album",
-			"uri": "spotify:album:0MzK53h2YvxGE5gtFduM63"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "album",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/6cA6bv5d77XwHKP6NMbEAa"
-					},
-					"href": "https://api.spotify.com/v1/artists/6cA6bv5d77XwHKP6NMbEAa",
-					"id": "6cA6bv5d77XwHKP6NMbEAa",
-					"name": "Шляпа Шаляпина",
-					"type": "artist",
-					"uri": "spotify:artist:6cA6bv5d77XwHKP6NMbEAa"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/3c88AjFU4Fljool3xHtVUE"
-			},
-			"href": "https://api.spotify.com/v1/albums/3c88AjFU4Fljool3xHtVUE",
-			"id": "3c88AjFU4Fljool3xHtVUE",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b27329c0edc3371bdbcfc698aeea",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e0229c0edc3371bdbcfc698aeea",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d0000485129c0edc3371bdbcfc698aeea",
-					"width": 64
-				}
-			],
-			"name": "Сосунки",
-			"release_date": "2020-09-25",
-			"release_date_precision": "day",
-			"total_tracks": 16,
-			"type": "album",
-			"uri": "spotify:album:3c88AjFU4Fljool3xHtVUE"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "album",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/0QZt5BLDw89xmFqZ54isYJ"
-					},
-					"href": "https://api.spotify.com/v1/artists/0QZt5BLDw89xmFqZ54isYJ",
-					"id": "0QZt5BLDw89xmFqZ54isYJ",
-					"name": "Czar",
-					"type": "artist",
-					"uri": "spotify:artist:0QZt5BLDw89xmFqZ54isYJ"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/2pvrwKEcFQGMg8xmpmUPUW"
-			},
-			"href": "https://api.spotify.com/v1/albums/2pvrwKEcFQGMg8xmpmUPUW",
-			"id": "2pvrwKEcFQGMg8xmpmUPUW",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b273f1f10d8fa6dbe21a3c02557e",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e02f1f10d8fa6dbe21a3c02557e",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d00004851f1f10d8fa6dbe21a3c02557e",
-					"width": 64
-				}
-			],
-			"name": "Pig Drum (Side B)",
-			"release_date": "2020-04-24",
-			"release_date_precision": "day",
-			"total_tracks": 18,
-			"type": "album",
-			"uri": "spotify:album:2pvrwKEcFQGMg8xmpmUPUW"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "compilation",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-					},
-					"href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-					"id": "0LyfQWJT6nXafLPZqxe9Of",
-					"name": "Various Artists",
-					"type": "artist",
-					"uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/0UhiPlq0lVm6zFp0n9I8Vw"
-			},
-			"href": "https://api.spotify.com/v1/albums/0UhiPlq0lVm6zFp0n9I8Vw",
-			"id": "0UhiPlq0lVm6zFp0n9I8Vw",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b2731bd9350a70f8212495cc130f",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e021bd9350a70f8212495cc130f",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d000048511bd9350a70f8212495cc130f",
-					"width": 64
-				}
-			],
-			"name": "За любовь",
-			"release_date": "2020-02-14",
-			"release_date_precision": "day",
-			"total_tracks": 24,
-			"type": "album",
-			"uri": "spotify:album:0UhiPlq0lVm6zFp0n9I8Vw"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "album",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/0ujeWdf0vztxqm6ryFBS7M"
-					},
-					"href": "https://api.spotify.com/v1/artists/0ujeWdf0vztxqm6ryFBS7M",
-					"id": "0ujeWdf0vztxqm6ryFBS7M",
-					"name": "Джигли",
-					"type": "artist",
-					"uri": "spotify:artist:0ujeWdf0vztxqm6ryFBS7M"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/5POBW7b3vg9MirJjiqTz38"
-			},
-			"href": "https://api.spotify.com/v1/albums/5POBW7b3vg9MirJjiqTz38",
-			"id": "5POBW7b3vg9MirJjiqTz38",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b2732fe5b84d0ae8e53580511888",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e022fe5b84d0ae8e53580511888",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d000048512fe5b84d0ae8e53580511888",
-					"width": 64
-				}
-			],
-			"name": "Что-то более уродливое чем ты сам",
-			"release_date": "2019-11-15",
-			"release_date_precision": "day",
-			"total_tracks": 8,
-			"type": "album",
-			"uri": "spotify:album:5POBW7b3vg9MirJjiqTz38"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "album",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
-					},
-					"href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
-					"id": "7fMhppMTr3ElTOEJqSbkEq",
-					"name": "Slava KPSS",
-					"type": "artist",
-					"uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/2JlDGzeRlKKvyNlMG3yqwj"
-			},
-			"href": "https://api.spotify.com/v1/albums/2JlDGzeRlKKvyNlMG3yqwj",
-			"id": "2JlDGzeRlKKvyNlMG3yqwj",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b273ed0d7672401805628b40c690",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e02ed0d7672401805628b40c690",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d00004851ed0d7672401805628b40c690",
-					"width": 64
-				}
-			],
-			"name": "ОТТЕНКИ БАРДА (Mixtape)",
-			"release_date": "2019-10-25",
-			"release_date_precision": "day",
-			"total_tracks": 32,
-			"type": "album",
-			"uri": "spotify:album:2JlDGzeRlKKvyNlMG3yqwj"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "compilation",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-					},
-					"href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-					"id": "0LyfQWJT6nXafLPZqxe9Of",
-					"name": "Various Artists",
-					"type": "artist",
-					"uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/7KyMXwPu0pigg6unjZMSia"
-			},
-			"href": "https://api.spotify.com/v1/albums/7KyMXwPu0pigg6unjZMSia",
-			"id": "7KyMXwPu0pigg6unjZMSia",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b2737ea8889a8838f68f5137098f",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e027ea8889a8838f68f5137098f",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d000048517ea8889a8838f68f5137098f",
-					"width": 64
-				}
-			],
-			"name": "Пушка, Ч. 3",
-			"release_date": "2019-08-08",
-			"release_date_precision": "day",
-			"total_tracks": 23,
-			"type": "album",
-			"uri": "spotify:album:7KyMXwPu0pigg6unjZMSia"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "single",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
-					},
-					"href": "https://api.spotify.com/v1/artists/7fMhppMTr3ElTOEJqSbkEq",
-					"id": "7fMhppMTr3ElTOEJqSbkEq",
-					"name": "Slava KPSS",
-					"type": "artist",
-					"uri": "spotify:artist:7fMhppMTr3ElTOEJqSbkEq"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/1gbhWgqZXlAGvU4vDk106s"
-			},
-			"href": "https://api.spotify.com/v1/albums/1gbhWgqZXlAGvU4vDk106s",
-			"id": "1gbhWgqZXlAGvU4vDk106s",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b2735fbea968db415f9bab366c56",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e025fbea968db415f9bab366c56",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d000048515fbea968db415f9bab366c56",
-					"width": 64
-				}
-			],
-			"name": "Мы из Антихайпа",
-			"release_date": "2019-04-23",
-			"release_date_precision": "day",
-			"total_tracks": 1,
-			"type": "album",
-			"uri": "spotify:album:1gbhWgqZXlAGvU4vDk106s"
-		},
-		{
-			"album_group": "appears_on",
-			"album_type": "compilation",
-			"artists": [
-				{
-					"external_urls": {
-						"spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-					},
-					"href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-					"id": "0LyfQWJT6nXafLPZqxe9Of",
-					"name": "Various Artists",
-					"type": "artist",
-					"uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-				}
-			],
-			"external_urls": {
-				"spotify": "https://open.spotify.com/album/3UjbmfxQ9eHt68jlG9DwGe"
-			},
-			"href": "https://api.spotify.com/v1/albums/3UjbmfxQ9eHt68jlG9DwGe",
-			"id": "3UjbmfxQ9eHt68jlG9DwGe",
-			"images": [
-				{
-					"height": 640,
-					"url": "https://i.scdn.co/image/ab67616d0000b2731be1c097d9664ae9124d0277",
-					"width": 640
-				},
-				{
-					"height": 300,
-					"url": "https://i.scdn.co/image/ab67616d00001e021be1c097d9664ae9124d0277",
-					"width": 300
-				},
-				{
-					"height": 64,
-					"url": "https://i.scdn.co/image/ab67616d000048511be1c097d9664ae9124d0277",
-					"width": 64
-				}
-			],
-			"name": "РЕНЕССАНС 2018",
-			"release_date": "2018-12-21",
-			"release_date_precision": "day",
-			"total_tracks": 26,
-			"type": "album",
-			"uri": "spotify:album:3UjbmfxQ9eHt68jlG9DwGe"
-		}
-	],
-	"limit": 10,
-	"next": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=15&limit=10&include_groups=appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
-	"offset": 5,
-	"previous": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=0&limit=10&include_groups=appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
-	"total": 28
+  "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=5&limit=5&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
+  "items": [
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1MHc0hLhnIbvJdMtek6xKF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1MHc0hLhnIbvJdMtek6xKF",
+      "id": "1MHc0hLhnIbvJdMtek6xKF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732bead5cee51b61159a1ab7d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022bead5cee51b61159a1ab7d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512bead5cee51b61159a1ab7d8",
+          "width": 64
+        }
+      ],
+      "name": "Имя",
+      "release_date": "2017-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1MHc0hLhnIbvJdMtek6xKF"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3sdc7rOQ46CIwUtc6clBwi"
+      },
+      "href": "https://api.spotify.com/v1/albums/3sdc7rOQ46CIwUtc6clBwi",
+      "id": "3sdc7rOQ46CIwUtc6clBwi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de893ce4700e8fbd7e374820",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de893ce4700e8fbd7e374820",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de893ce4700e8fbd7e374820",
+          "width": 64
+        }
+      ],
+      "name": "Россия",
+      "release_date": "2017-03-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3sdc7rOQ46CIwUtc6clBwi"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JnqxlYjgIx2uupeCjksA2"
+      },
+      "href": "https://api.spotify.com/v1/albums/6JnqxlYjgIx2uupeCjksA2",
+      "id": "6JnqxlYjgIx2uupeCjksA2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3c2c7ee157c954ace817d25",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3c2c7ee157c954ace817d25",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3c2c7ee157c954ace817d25",
+          "width": 64
+        }
+      ],
+      "name": "Моя Диана",
+      "release_date": "2017-03-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6JnqxlYjgIx2uupeCjksA2"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4zL1zimqZpYgw4ay2fOHez"
+      },
+      "href": "https://api.spotify.com/v1/albums/4zL1zimqZpYgw4ay2fOHez",
+      "id": "4zL1zimqZpYgw4ay2fOHez",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730567d9571813fc0bbc4b5aa4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020567d9571813fc0bbc4b5aa4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510567d9571813fc0bbc4b5aa4",
+          "width": 64
+        }
+      ],
+      "name": "Молодой папа (Хованский diss)",
+      "release_date": "2017-02-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4zL1zimqZpYgw4ay2fOHez"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ez3BUKqezvzoG2JMhKW26"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ez3BUKqezvzoG2JMhKW26",
+      "id": "5ez3BUKqezvzoG2JMhKW26",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27381637c7b43ae611063af310f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0281637c7b43ae611063af310f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485181637c7b43ae611063af310f",
+          "width": 64
+        }
+      ],
+      "name": "NHY",
+      "release_date": "2016-11-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5ez3BUKqezvzoG2JMhKW26"
+    }
+  ],
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=10&limit=5&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
+  "offset": 5,
+  "previous": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=0&limit=5&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
+  "total": 45
 }
