@@ -1,5 +1,27 @@
 {
-"images": [
+  "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=1&limit=10&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
+  "items": [
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5KUcdgfCOVtWLDPdZHmvdY"
+      },
+      "href": "https://api.spotify.com/v1/albums/5KUcdgfCOVtWLDPdZHmvdY",
+      "id": "5KUcdgfCOVtWLDPdZHmvdY",
+      "images": [
         {
           "height": 640,
           "url": "https://i.scdn.co/image/ab67616d0000b27305ba2117f2aab31619e2bf8c",
@@ -15,5 +37,414 @@
           "url": "https://i.scdn.co/image/ab67616d0000485105ba2117f2aab31619e2bf8c",
           "width": 64
         }
-      ]
+      ],
+      "name": "Lust Hero, Vol. 2",
+      "release_date": "2020-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:5KUcdgfCOVtWLDPdZHmvdY"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4fJ8oGRLlqodwtbykYGeQy"
+      },
+      "href": "https://api.spotify.com/v1/albums/4fJ8oGRLlqodwtbykYGeQy",
+      "id": "4fJ8oGRLlqodwtbykYGeQy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273243dc4bea4a59c9d30304064",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02243dc4bea4a59c9d30304064",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851243dc4bea4a59c9d30304064",
+          "width": 64
+        }
+      ],
+      "name": "Хардкор",
+      "release_date": "2018-07-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4fJ8oGRLlqodwtbykYGeQy"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Oqo7MAVZANehlvLxv7nck"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Oqo7MAVZANehlvLxv7nck",
+      "id": "3Oqo7MAVZANehlvLxv7nck",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273505d9ddcbceb1ce27bd19bd6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02505d9ddcbceb1ce27bd19bd6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851505d9ddcbceb1ce27bd19bd6",
+          "width": 64
+        }
+      ],
+      "name": "PARIS",
+      "release_date": "2018-07-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3Oqo7MAVZANehlvLxv7nck"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6RitIsf2Nu66WRn96rGPVp"
+      },
+      "href": "https://api.spotify.com/v1/albums/6RitIsf2Nu66WRn96rGPVp",
+      "id": "6RitIsf2Nu66WRn96rGPVp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27320e0407fb94a38a47e324bea",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0220e0407fb94a38a47e324bea",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485120e0407fb94a38a47e324bea",
+          "width": 64
+        }
+      ],
+      "name": "Мажитель",
+      "release_date": "2018-07-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6RitIsf2Nu66WRn96rGPVp"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1MHc0hLhnIbvJdMtek6xKF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1MHc0hLhnIbvJdMtek6xKF",
+      "id": "1MHc0hLhnIbvJdMtek6xKF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732bead5cee51b61159a1ab7d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022bead5cee51b61159a1ab7d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512bead5cee51b61159a1ab7d8",
+          "width": 64
+        }
+      ],
+      "name": "Имя",
+      "release_date": "2017-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1MHc0hLhnIbvJdMtek6xKF"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3sdc7rOQ46CIwUtc6clBwi"
+      },
+      "href": "https://api.spotify.com/v1/albums/3sdc7rOQ46CIwUtc6clBwi",
+      "id": "3sdc7rOQ46CIwUtc6clBwi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de893ce4700e8fbd7e374820",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de893ce4700e8fbd7e374820",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de893ce4700e8fbd7e374820",
+          "width": 64
+        }
+      ],
+      "name": "Россия",
+      "release_date": "2017-03-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3sdc7rOQ46CIwUtc6clBwi"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JnqxlYjgIx2uupeCjksA2"
+      },
+      "href": "https://api.spotify.com/v1/albums/6JnqxlYjgIx2uupeCjksA2",
+      "id": "6JnqxlYjgIx2uupeCjksA2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3c2c7ee157c954ace817d25",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3c2c7ee157c954ace817d25",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3c2c7ee157c954ace817d25",
+          "width": 64
+        }
+      ],
+      "name": "Моя Диана",
+      "release_date": "2017-03-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6JnqxlYjgIx2uupeCjksA2"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4zL1zimqZpYgw4ay2fOHez"
+      },
+      "href": "https://api.spotify.com/v1/albums/4zL1zimqZpYgw4ay2fOHez",
+      "id": "4zL1zimqZpYgw4ay2fOHez",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730567d9571813fc0bbc4b5aa4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020567d9571813fc0bbc4b5aa4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510567d9571813fc0bbc4b5aa4",
+          "width": 64
+        }
+      ],
+      "name": "Молодой папа (Хованский diss)",
+      "release_date": "2017-02-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4zL1zimqZpYgw4ay2fOHez"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ez3BUKqezvzoG2JMhKW26"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ez3BUKqezvzoG2JMhKW26",
+      "id": "5ez3BUKqezvzoG2JMhKW26",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27381637c7b43ae611063af310f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0281637c7b43ae611063af310f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485181637c7b43ae611063af310f",
+          "width": 64
+        }
+      ],
+      "name": "NHY",
+      "release_date": "2016-11-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5ez3BUKqezvzoG2JMhKW26"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
+          },
+          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
+          "id": "49UiD9IBopGUJrJy7kBpIm",
+          "name": "Zamay",
+          "type": "artist",
+          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/35DzdgDZtZwacoL7zGWWYT"
+      },
+      "href": "https://api.spotify.com/v1/albums/35DzdgDZtZwacoL7zGWWYT",
+      "id": "35DzdgDZtZwacoL7zGWWYT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730437104ab01cd899e1893feb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020437104ab01cd899e1893feb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510437104ab01cd899e1893feb",
+          "width": 64
+        }
+      ],
+      "name": "Новый",
+      "release_date": "2016-11-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:35DzdgDZtZwacoL7zGWWYT"
+    }
+  ],
+  "limit": 10,
+  "next": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=11&limit=10&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
+  "offset": 1,
+  "previous": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=0&limit=10&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
+  "total": 45
 }
