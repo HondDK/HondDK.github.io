@@ -1,26 +1,7 @@
 {
   "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=1&limit=1&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
   "items": [
-    {
-      "album_group": "single",
-      "album_type": "single",
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/49UiD9IBopGUJrJy7kBpIm"
-          },
-          "href": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm",
-          "id": "49UiD9IBopGUJrJy7kBpIm",
-          "name": "Zamay",
-          "type": "artist",
-          "uri": "spotify:artist:49UiD9IBopGUJrJy7kBpIm"
-        }
-      ],
-      "external_urls": {
-        "spotify": "https://open.spotify.com/album/5KUcdgfCOVtWLDPdZHmvdY"
-      },
-      "href": "https://api.spotify.com/v1/albums/5KUcdgfCOVtWLDPdZHmvdY",
-      "id": "5KUcdgfCOVtWLDPdZHmvdY",
+  
       "images": [
         {
           "height": 640,
@@ -38,13 +19,6 @@
           "width": 64
         }
       ],
-      "name": "Lust Hero, Vol. 2",
-      "release_date": "2020-04-03",
-      "release_date_precision": "day",
-      "total_tracks": 6,
-      "type": "album",
-      "uri": "spotify:album:5KUcdgfCOVtWLDPdZHmvdY"
-    }
   ],
   "limit": 1,
   "next": "https://api.spotify.com/v1/artists/49UiD9IBopGUJrJy7kBpIm/albums?offset=2&limit=1&include_groups=single,appears_on&market=ES&locale=en-US,en;q=0.9,ru-RU;q=0.8,ru-KZ;q=0.7,ru;q=0.6",
